@@ -1,0 +1,7 @@
+# API for testnetBinance
+API_KEY = 'J2dhHdTe5Xk7ee70x8H3mzPpYY6O7QoJxdGbRASANcPkRUoDpjrShVlsIlQSz4Qp'
+API_SECRET = 'NRGr6ELiA0fHW4WsVKMEAK25LIJ9GXUf9UgxUTOiCuk4nsS3U7UgTXJxJ5G2mH8F'
+
+# API for real_binance
+API_KEY_REAL = 'your_API'
+API_SECRET_REAL = 'your_secret_API'
